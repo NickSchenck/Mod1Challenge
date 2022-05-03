@@ -1,1 +1,2 @@
 # Code Refactor Starter Code
+Look through and make edits to make the code more accessible and streamlined, without any loss in webpage quality or functionality. Comment changes made to code within the VSC program. 
